@@ -1,6 +1,8 @@
 # Portail scolaire — Frontend
 
-Interface React (français) pour la plateforme de gestion scolaire MVP. **Ce dépôt ne contient que le frontend** ; l’API tourne dans le projet séparé [`standar-school-management-portal-be`](../standar-school-management-portal-be).
+Interface React (français) pour la plateforme de gestion scolaire MVP.
+
+**Ce dépôt GitHub = frontend uniquement** (`standar-school-management-portal`). Le backend vit dans un **deuxième dossier local** au même niveau : `standar-school-management-portal-be` (pas poussé sur ce remote).
 
 ## Prérequis
 
